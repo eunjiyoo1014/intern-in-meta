@@ -1,6 +1,6 @@
 
 import './App.css'
-import ProductCard from './component/productCard'
+import ProductCard from './components/productCard'
 
 function App() {
 
