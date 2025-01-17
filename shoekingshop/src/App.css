@@ -1,11 +1,14 @@
+body{
+  justify-content: space-around;
+}
 
 .productLayout {
-  width: 100%;
+
   display: flex;
   justify-content: space-around;
 }
 .productCard {
-  width: 40%;
+  width: 45%;
   height: 70%;
   border-radius: 10px;
   border: #88888830 solid 1px;

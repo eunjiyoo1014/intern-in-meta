@@ -1,9 +1,9 @@
-import { useState } from 'react'
 
 import './App.css'
 import ProductCard from './component/productCard'
 
 function App() {
+
   return (
     <>
     <div className='productLayout'>
@@ -13,6 +13,8 @@ function App() {
 
 
     </>
+
+
   )
 }
 
