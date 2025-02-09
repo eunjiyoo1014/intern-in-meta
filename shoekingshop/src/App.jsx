@@ -1,5 +1,6 @@
 
 import './App.css'
+import CardForm from './components/CardForm'
 import ProductCard from './components/productCard'
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <div className='productLayout'>
       <ProductCard/>
       <ProductCard/>
+      <CardForm/>
     </div>
 
 
